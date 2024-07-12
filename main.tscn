@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://hy5dwqu3fcck"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_81r8k"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_81r8k")
+
+[node name="Label" type="Label" parent="."]
+offset_left = 188.0
+offset_top = 78.0
+offset_right = 595.0
+offset_bottom = 315.0
